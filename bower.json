@@ -1,0 +1,6 @@
+{
+  "name": "foundation-libsass-template",
+  "dependencies": {
+    "foundation": "git@github.com:zurb/bower-foundation#master"
+  }
+}

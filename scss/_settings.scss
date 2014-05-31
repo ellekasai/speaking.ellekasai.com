@@ -1,0 +1,18 @@
+@import "foundation/functions";
+
+$body-font-family: "Merriweather", serif;
+
+// 14 17 23 27 37 44 59 71 95 115
+$h1-font-size: rem-calc(71);
+$h2-font-size: rem-calc(27);
+$h3-font-size: rem-calc(27);
+$h4-font-size: rem-calc(23);
+$h5-font-size: rem-calc(18);
+$h6-font-size: 1rem;
+
+$h1-font-reduction: rem-calc(27) !default;
+$h2-font-reduction: rem-calc(4) !default;
+$h3-font-reduction: rem-calc(4) !default;
+
+$primary-color: #ee7788; // My Birthday
+$body-font-color: #666;
